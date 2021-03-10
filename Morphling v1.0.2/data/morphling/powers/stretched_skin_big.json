@@ -1,0 +1,11 @@
+{
+    "type": "origins:model_color",
+    "alpha": 0.70,
+    "condition": {
+        "type": "origins:resource",
+        "resource": "morphling:size_resource",
+        "comparison": "==",
+        "compare_to": 2
+    },
+    "hidden": true
+}
