@@ -1,7 +1,7 @@
 {
     "type": "origins:particle",
     "particle": "minecraft:soul",
-    "frequency": 2,
+    "frequency": 5,
     "condition": {
         "type": "origins:resource",
         "comparison": ">",

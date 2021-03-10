@@ -9,7 +9,9 @@
 		"morphling:atom_length",
 		"morphling:atom_power",
 		"morphling:atom_go_down",
-		"morphling:featherweight"
+		"morphling:featherweight",
+		"morphling:tankman",
+		"morphling:jumphigh"
 
 	],
     "name": "Morphling",
