@@ -1,0 +1,26 @@
+{
+	"powers": [
+		"morphling:atomparticles",
+		"morphling:size_resource",
+		"morphling:size_change",
+		"morphling:size_changer",
+		"morphling:colour",
+		"morphling:atom",
+		"morphling:atom_length",
+		"morphling:atom_power",
+		"morphling:atom_go_down",
+		"morphling:featherweight",
+		"morphling:tankman",
+		"morphling:jumphigh",
+		"morphling:stretched_skin",
+		"morphling:stretched_skin_big",
+		"morphling:stretched_skin_small",
+		"morphling:hunger"
+
+	],
+    "name": "Morphling",
+    "description": "Similar to the Phantom, yet different in most ways...",
+	"icon": "minecraft:tube_coral",
+	"order": 19,
+	"impact": 2
+}
