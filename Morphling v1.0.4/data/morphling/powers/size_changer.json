@@ -14,7 +14,7 @@
 		{
 			"type": "origins:change_resource",
 			"resource": "morphling:size_resource",
-			"change": 1
+			"change": 2
 		},
 		"else_action":
 		{
@@ -30,13 +30,13 @@
 			{
 				"type": "origins:change_resource",
 				"resource": "morphling:size_resource",
-				"change": -2
+				"change": -1
 			},
 			"else_action":
 			{
 				"type": "origins:change_resource",
 				"resource": "morphling:size_resource",
-				"change": 1
+				"change": -1
 			}
 		}
 	},
