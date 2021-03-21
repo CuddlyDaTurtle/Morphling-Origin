@@ -1,7 +1,0 @@
-{
-    "type": "origins:exhaust",
-    "interval": 2400,
-    "exhaustion": 1,
-    "name": "Hungry",
-    "description": "Changing shape is a lot of work. Your hunger goes down faster."
-}

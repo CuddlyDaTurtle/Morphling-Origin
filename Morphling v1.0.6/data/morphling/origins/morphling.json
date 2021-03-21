@@ -14,13 +14,20 @@
 		"morphling:stretched_skin",
 		"morphling:stretched_skin_big",
 		"morphling:stretched_skin_small",
-		"morphling:hunger",
+		"morphling:melting",
 		"morphling:bigness",
 		"morphling:smallness",
 		"morphling:normalness",
 		"morphling:atom_size",
 		"morphling:strongarms",
-		"origins:carnivore"
+		"morphling:antivore",
+		"morphling:liquidish",
+		"morphling:nofood",
+		"morphling:waterbreath",
+		"morphling:gravity",
+		"morphling:nosleepsmall",
+		"morphling:nosleepbig",
+		"morphling:nosleepatom"
 
 	],
     "name": "Morphling",

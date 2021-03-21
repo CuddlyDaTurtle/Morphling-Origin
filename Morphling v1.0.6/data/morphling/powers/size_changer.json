@@ -40,11 +40,19 @@
 			}
 		}
 	},
-	"cooldown": 5,
+	"cooldown": 100,
 	"hud_render":
 	{
-		"should_render": false
+		"should_render": true,
+		"sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_03.png",
+		"bar_index": 21
+	},
+	"condition": {
+		"type": "origins:dimension",
+		"dimension": "minecraft:the_nether",
+		"inverted": true
 	},
 	"key": "primary",
-	"hidden": true
+	"name": "Too Hot",
+	"description": "You cannot morph in the Nether, as it is too hot."
 }

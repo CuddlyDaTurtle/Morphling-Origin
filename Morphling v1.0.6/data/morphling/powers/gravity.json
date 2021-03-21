@@ -1,0 +1,9 @@
+{
+    "type": "origins:swimming",
+    "condition": {
+        "type": "origins:dimension",
+        "dimension": "minecraft:the_end"
+    },
+    "name": "Gravitational Handling",
+    "description": "When in the end, you can swim in the air."
+}

@@ -1,0 +1,12 @@
+{
+    "type": "origins:prevent_sleep",
+    "message": "You are too big for this bed!",
+    "condition": {
+        "type": "origins:resource",
+        "resource": "morphling:size_resource",
+        "comparison": "==",
+        "compare_to": 2
+    },
+    "name": "Size Matters",
+    "description": "You cannot sleep while Englarged, Small or Atomized."
+}

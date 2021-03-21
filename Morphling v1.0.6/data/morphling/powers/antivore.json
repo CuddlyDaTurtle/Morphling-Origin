@@ -1,0 +1,9 @@
+{
+    "type": "origins:modify_exhaustion",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": 0
+    },
+    "name": "Antivore",
+    "description": "Having no stomach, you do not need to eat."
+}

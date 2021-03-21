@@ -1,0 +1,11 @@
+{
+    "type": "origins:prevent_sleep",
+    "message": "You cannot sleep while Atomized, you'll fall right through!",
+    "condition": {
+        "type": "origins:resource",
+        "resource": "morphling:size_resource",
+        "comparison": "==",
+        "compare_to": 3
+    },
+    "hidden": true
+}

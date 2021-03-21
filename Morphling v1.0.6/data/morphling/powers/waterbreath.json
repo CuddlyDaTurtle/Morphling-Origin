@@ -1,0 +1,19 @@
+{
+    "type": "origins:stacking_status_effect",
+    "min_stacks": 0,
+    "max_stacks": 1,
+    "duration_per_stack": 20,
+    "effect": {
+        "effect": "minecraft:water_breathing",
+        "duration": 20,
+        "amplifier": 1,
+        "show_icon": false,
+        "show_particles": false
+    },
+    "condition": {
+        "type": "origins:submerged_in",
+        "fluid": "minecraft:water"
+    },
+    "name": "No Lungs",
+    "description": "Having no lungs, you can be underwater without drowning. Howver, this doesnt stop you from suffocating in blocks."
+}
