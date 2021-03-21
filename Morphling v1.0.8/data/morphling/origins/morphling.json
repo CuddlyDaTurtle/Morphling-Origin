@@ -28,7 +28,9 @@
 		"morphling:nosleepsmall",
 		"morphling:nosleepbig",
 		"morphling:nosleepatom",
-		"morphling:brainless"
+		"morphling:brainless",
+		"morphling:colourblind",
+		"morphling:eyes"
 
 	],
     "name": "Morphling",

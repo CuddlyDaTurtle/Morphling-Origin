@@ -1,0 +1,6 @@
+{
+    "type": "origins:shader",
+    "shader": "minecraft:shaders/post/spider.json",
+    "name": "Multiple Eyes",
+    "description": "You have multiple eyes - Too many to see through?"
+  }
