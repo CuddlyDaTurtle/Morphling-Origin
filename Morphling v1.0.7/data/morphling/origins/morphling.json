@@ -27,7 +27,8 @@
 		"morphling:gravity",
 		"morphling:nosleepsmall",
 		"morphling:nosleepbig",
-		"morphling:nosleepatom"
+		"morphling:nosleepatom",
+		"morphling:brainless"
 
 	],
     "name": "Morphling",

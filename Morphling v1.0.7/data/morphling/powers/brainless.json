@@ -1,0 +1,9 @@
+{
+    "type": "origins:modify_xp_gain",
+    "modifier": {
+        "operation": "multiply_base",
+        "value" 0.5
+    },
+    "name": "Brainless",
+    "description": "Due to having no Brain, you are considerably dumber. You gain only half the Experience as another player."
+}
