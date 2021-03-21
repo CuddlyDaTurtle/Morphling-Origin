@@ -2,7 +2,6 @@
 	"powers": [
 		"morphling:atomparticles",
 		"morphling:size_resource",
-		"morphling:size_change",
 		"morphling:size_changer",
 		"morphling:colour",
 		"morphling:atom",
@@ -15,7 +14,13 @@
 		"morphling:stretched_skin",
 		"morphling:stretched_skin_big",
 		"morphling:stretched_skin_small",
-		"morphling:hunger"
+		"morphling:hunger",
+		"morphling:bigness",
+		"morphling:smallness",
+		"morphling:normalness",
+		"morphling:atom_size",
+		"morphling:strongarms",
+		"origins:carnivore"
 
 	],
     "name": "Morphling",

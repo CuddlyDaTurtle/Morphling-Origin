@@ -1,0 +1,51 @@
+{
+    "type": "origins:action_over_time",
+    "interval": 20,
+    "entity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:execute_command",
+                "command": "scale set pehkui:width 1.5",
+                "permission_level": 4
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "scale set pehkui:height 1.5",
+                "permission_level": 4
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "scale set pehkui:health 1.7",
+                "permission_level": 4
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "effect give @s minecraft:slowness 2 1 true",
+                "permission_level": 4
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "effect give @s minecraft:resistance 2 1 true",
+                "permission_level": 4
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "effect give @s minecraft:strength 2 0 true",
+                "permission_level": 4
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "effect give @s minecraft:haste 2 1 true",
+                "permission_level": 4
+            }
+        ]
+    },
+    "condition": {
+        "type": "origins:resource",
+        "resource": "morphling:size_resource",
+        "comparison": "==",
+        "compare_to": 2
+    },
+    "hidden": true
+}

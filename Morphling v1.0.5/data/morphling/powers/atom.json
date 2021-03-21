@@ -12,6 +12,20 @@
                 "type": "origins:execute_command",
                 "command": "playsound minecraft:entity.ender_dragon.growl ambient @s",
                 "permission_level": 4	
+            },
+            {
+                "type": "origins:change_resource",
+                "resource": "morphling:size_resource",
+                "change": 4
+            },
+            {   
+                "type": "origins:delay",
+                "ticks": 600,
+                "action": {
+                  "type": "origins:change_resource",
+                  "resource": "morphling:size_resource",
+                  "change": -2
+                }
             }
         ]
     },

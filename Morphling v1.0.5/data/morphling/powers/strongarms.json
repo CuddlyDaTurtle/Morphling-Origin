@@ -1,0 +1,15 @@
+{
+    "type": "origins:modify_harvest",
+    "allow": true,
+    "block_condition": {
+      "type": "origins:in_tag",
+      "tag": "morphling:strongarmblocks"
+    },
+    "condition": {
+        "type": "origins:resource",
+        "resource": "morphling:size_resource",
+        "comparison": "==",
+        "compare_to": 2
+    },
+    "hidden": true
+  }
